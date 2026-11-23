@@ -36,7 +36,8 @@ I'm now working towards becoming comfortable with backend development and buildi
 - 🌱 **Learning:** Node.js, Express.js, and MongoDB
 - 💻 **Interested in:** Full Stack Development and problem-solving
 - 🎯 **Goal:** Become a Full Stack Developer and contribute to real-world projects
-- 🤝 **Open to:** Learning opportunities and relevant developer internships
+- 🤝 **Open to:** Learning opportunities and relevant developer internships/jobs
+- ⚡ Fun fact: Still wondering why semicolons are so important?
 
 <br/><br/>
 
